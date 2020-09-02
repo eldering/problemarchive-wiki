@@ -1,0 +1,30 @@
+s {
+	text-decoration: initial;
+}
+s:not([class]), s:not([class]) code {
+	background: yellow;
+}
+s.dep, s.dep code {
+	color: lightpink;
+}
+p {
+	color: inherit;
+    background: inherit;
+}
+.clics, .clics td, .clics code {
+    color: blue;
+}
+.problemarchive, .problemarchive td, .problemarchive code {
+    color: red;
+}
+div.buttons {
+	padding-top: 12px;
+    display: flex;
+    justify-content: space-evenly;
+}
+div.buttons button.clics_button {
+    color: blue
+}
+div.buttons button.problemarchive_button {
+    color: red
+}

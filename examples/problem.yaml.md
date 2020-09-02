@@ -1,3 +1,7 @@
+---
+sort: 2
+title: Problem.yaml
+---
 Typical problem.yaml:
 
 `# Problem configuration`  

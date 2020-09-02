@@ -1,0 +1,29 @@
+title: Problem Package Specification
+lang: en
+description: Problem Package Specification
+
+theme: null
+
+nav_version: true
+edit: true
+addons_branch: false
+
+addons:
+  - github
+
+copyright:
+  #revision: false
+
+readme_index:
+  with_frontmatter: true
+
+remote_theme: rundocs/jekyll-rtd-theme
+
+plugins:
+  - jekyll-remote-theme
+
+markdown: CommonMarkGhPages
+#markdown: CommonMark
+commonmark:
+  options: ['SMART']
+  extensions: ['table']

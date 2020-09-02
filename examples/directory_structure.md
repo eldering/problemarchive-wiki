@@ -1,3 +1,7 @@
+---
+sort: 1
+title: Directory structure
+---
 <short_name>`/`  
 `      problem.yaml - problem configuration file`  
 `      problem_statement/`  
